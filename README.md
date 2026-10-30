@@ -111,7 +111,11 @@ Hands-on labs and practical projects will be added here as I progress in my lear
 
 ## 📫 Connect With Me
 
+
+## 📫 Connect With Me
+
 - **GitHub:** [@Celina-268](https://github.com/Celina-268)
+- **Facebook:** [Celina](https://www.facebook.com/celinanetsec)
 - **Gmail:** [celinanetsec@gmail.com](mailto:celinanetsec@gmail.com)
 
 ---
