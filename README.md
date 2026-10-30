@@ -49,28 +49,40 @@ I'm particularly interested in:
 
 My long-term goal is to develop strong technical knowledge and pursue advanced studies in Information Security, with a focus on Network Security.
 
+
+---
+
 ## 🛠️ Technical Skills
 
-### Networking
-- OSI & TCP/IP Models
-- IPv4 Addressing & Subnetting
-- DNS, DHCP, HTTP/HTTPS
-- Network Protocols & Services
-- Basic Network Troubleshooting
+### 🌐 Networking
+<p>
+  <img src="https://img.shields.io/badge/Computer_Networking-1572B6?style=flat-square" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+</p>
 
-### Operating Systems
-- Linux (Kali Linux, Ubuntu)
-- Windows
+### 🐧 Operating Systems
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+</p>
 
-### Networking & Security Tools
-- Wireshark
-- Nmap
-- Cisco Packet Tracer
+### 🔐 Network Security
+<p>
+  <img src="https://img.shields.io/badge/Network_Security-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Nmap-214478?style=flat-square" />
+  <img src="https://img.shields.io/badge/Firewall-333333?style=flat-square" />
+</p>
 
-### Development & Tools
-- Git & GitHub
-- Markdown
-- Visual Studio Code
+### 💻 Programming & Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+
 
 *Note: This section represents technologies and fundamentals I am learning and practicing.*
 
