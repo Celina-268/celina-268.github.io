@@ -36,18 +36,19 @@ networking and security projects.
 - **Currently Learning:** Computer Networking, Linux Administration, and Network Security
 
   
+
+---
+
 ## 🎯 Career Interests
 
-I'm particularly interested in:
+- 🌐 **Network Engineering:** Network infrastructure, routing, switching, and network optimization.
+- 🔐 **Network Security:** Network monitoring, vulnerability assessment, firewall configuration, and network defense.
+- 🐧 **System Administration:** Linux administration, server management, and network services.
+- ☁️ **Cloud Computing:** Cloud infrastructure, networking, and security.
 
-- Computer Networking & Network Infrastructure
-- Network Administration
-- Network Security
-- Linux System Administration
-- Cybersecurity
-- Network Monitoring & Troubleshooting
+### 🎓 Long-term Goal
 
-My long-term goal is to develop strong technical knowledge and pursue advanced studies in Information Security, with a focus on Network Security.
+To develop strong expertise in Network Engineering and Network Security, with a long-term goal of pursuing a Master's degree in Information Security.
 
 
 ---
