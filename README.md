@@ -109,8 +109,6 @@ Hands-on labs and practical projects will be added here as I progress in my lear
 - Earn relevant networking and cybersecurity certifications.
 - Prepare for advanced studies in Information Security.
 
-## 📫 Connect With Me
-
 
 ## 📫 Connect With Me
 
