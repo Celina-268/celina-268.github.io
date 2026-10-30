@@ -1,23 +1,41 @@
-# Hi there, I'm Celina! 👋
 
-### Computer Networking & Data Communications Student
+<h1 align="center">C e l i n a</h1>
 
-Welcome to my GitHub Portfolio!
+<hr>
 
-I'm **Pham Thi Anh Tuyet (Celina)**, a Computer Networking & Data Communications student with a strong interest in network infrastructure, system administration, and cybersecurity.
+<h2 align="center">Hi there, I'm Celina! 👋</h2>
 
-I use this space to document my learning journey, share technical notes, build practical projects, and improve my technical skills.
+<h3 align="center">
+  Computer Networking & Data Communications Student
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Network-Engineering-1572B6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Network-Security-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux-System_Administration-FCC624?style=flat-square" />
+</p>
 
 ---
 
-## 👩‍💻 About Me
+I'm **Pham Thi Anh Tuyet (Celina)**, a Computer
+Networking & Data Communications student passionate
+about network infrastructure, system administration,
+and cybersecurity.
 
-- **Full Name:** Pham Thi Anh Tuyet
+I use this space to document my learning journey,
+share technical knowledge, and build hands-on
+networking and security projects.
+
+
+## 👩🏻‍💻 About Me
+
+- **Name:** Pham Thi Anh Tuyet
 - **Nickname:** Celina
 - **Major:** Computer Networking & Data Communications
 - **Interests:** Network Engineering, Network Security, Linux, and System Administration
 - **Currently Learning:** Computer Networking, Linux Administration, and Network Security
 
+  
 ## 🎯 Career Interests
 
 I'm particularly interested in:
